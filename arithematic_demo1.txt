@@ -1,0 +1,12 @@
+class arithematic_demo
+{
+	public static void main(String args[])
+	{
+		sum b=new sum();
+		s.getdata(10,20);
+		System.out.println("sum="+sum());
+		sub s1=new sub();
+		s1.getdata(10,5);
+		System.out.println("sub=",sub1());
+	}
+}
